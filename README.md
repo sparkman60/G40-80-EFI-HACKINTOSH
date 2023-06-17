@@ -63,5 +63,5 @@ Remarks:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hackintool, OCC for checking and update settings at post-installation.
 
-Wireless USB Adapter to provide external dongle WiFi capability for Mac if built-in doesnt work. Installation second time works for me without uninstall.
+Wireless USB Adapter to provide external dongle WiFi capability for Mac if built-in doesnt work. It works for me when install second times without uninstall it as first time installation doesnt work.
 

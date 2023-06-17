@@ -65,3 +65,4 @@ Hackintool, OCC for checking and update settings at post-installation.
 
 Wireless USB Adapter to provide external dongle WiFi capability for Mac if built-in doesnt work. It works for me when install second times without uninstall it as first time installation doesnt work.
 
+Fix audio kext installed but missing devices for output: https://www.youtube.com/watch?v=GXft2j0s4Gg

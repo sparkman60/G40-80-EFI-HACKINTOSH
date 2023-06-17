@@ -11,7 +11,7 @@ iGPU : Intel HD Graphics 5500
 
 dGPU : AMD Radeon R5 M330
 
-Audio Card - CONEXANT
+Audio Card : Conexant SmartAudio HD
 
 RAM : 16 GB DDR3L
 

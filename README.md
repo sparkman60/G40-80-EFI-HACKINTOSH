@@ -12,6 +12,7 @@ SSD : 240 GB Sandisk SSD PLUS
 Bluetooth: Intel Wireless Bluetooth
 Wireless Card : Intel Dual Band Wireless AC 3160
 
+
 Working:
 Graphics Acceleration
 HDMI Video

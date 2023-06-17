@@ -1,8 +1,8 @@
 # G40-80-EFI-HACKINTOSH
-Hackintosh for my G40-80
+Hackintosh for my G40-80 with Opencore (0.9.2)
 
 Specs
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 OS : MacOS Catalina 
 
 CPU : Intel i5 5200U Broadwell
@@ -22,7 +22,7 @@ Bluetooth: Intel Wireless Bluetooth
 Wireless Card : Intel Dual Band Wireless AC 3160
 
 Working:
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Graphics Acceleration
 
 HDMI Video
@@ -43,8 +43,8 @@ Bluetooth
 
 Wifi (with external dongle TL-WN725N)
 
-What doesn't work yet:
-
+Not Working:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AMD Radeon R5 M330
 
 VGA

@@ -3,6 +3,7 @@ Hackintosh for my G40-80
 
 Specs
 OS : MacOS Catalina 
+
 CPU : Intel i5 5200U Broadwell
 iGPU : Intel HD Graphics 5500
 dGPU : AMD Radeon R5 M330

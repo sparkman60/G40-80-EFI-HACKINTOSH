@@ -58,3 +58,10 @@ VGA
 Wifi (built-in)
 
 SD-Card Reader
+
+Remarks:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hackintool, OCC for checking and update settings at post-installation.
+
+Wireless USB Adapter to provide external dongle WiFi capability for Mac if built-in doesnt work. Installation second time works for me without uninstall.
+

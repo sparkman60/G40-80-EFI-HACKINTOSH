@@ -61,11 +61,11 @@ SD-Card Reader
 
 Remarks:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-*Hackintool, OCC for checking and update settings at post-installation.
-Link to the creator of Hackintool: https://github.com/benbaker76/Hackintool/releases
+*Hackintool, OCC for checking and update settings at post-installation.<br>
+Link to the creator of Hackintool: https://github.com/benbaker76/Hackintool/releases<br>
 Link to the creator of OCC: https://mackie100projects.altervista.org/download-opencore-configurator/
 
-*Wireless USB Adapter to provide external dongle WiFi capability for Mac if built-in doesnt work. It works for me when install second times without uninstall it as first time installation doesnt work. 
+*Wireless USB Adapter to provide external dongle WiFi capability for Mac if built-in doesnt work. It works for me when install second times without uninstall it as first time installation doesnt work.<br> 
 Link to the creator of Wireless-USB-Adapter: https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V15
 
 Fix audio kext installed but still missing devices for output: https://www.youtube.com/watch?v=GXft2j0s4Gg
